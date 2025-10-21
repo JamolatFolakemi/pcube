@@ -1,0 +1,162 @@
+body{
+    margin: auto 0;
+}
+
+.text{
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 400px;
+    position: relative;
+    top: 10rem;
+    left: 450px;
+    text-align: center;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    z-index: 200;
+    color: rgb(131, 131, 219) ;
+        border: solid 2px blue;
+     /* background-color:rgb(131, 131, 219); */
+     box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.yes{
+    position: relative;
+    bottom: 2rem;
+}
+
+.Date{
+    width: 9rem;
+    position: relative;
+    bottom: 10px;
+}
+
+.container{
+    /* margin: -40px 0; */
+    /* background-color: rgb(223, 130, 158); */
+    background-color: rgb(131, 131, 219);
+    width: 95%;
+    height: 86vh;
+    border: solid aliceblue 40px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+
+img{
+    width: 170px;
+    height: 180px;
+}
+
+.cute{
+    position: relative;
+    left: 26rem;
+    top: 7rem;
+    border-radius: 10rem;
+    border: solid 2px white;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.rich{
+    position: relative;
+    right: 28.5rem;
+    bottom: 13rem;
+    border-radius: 4rem;
+    width: 170px;
+    height: 180px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    /* border: red 5px solid; */
+     border: solid 1px white;
+}
+
+.second{
+    position: relative;
+    margin-top: 20rem;
+    text-align: center;
+    bottom: 10rem;
+
+    /* background-color: lightpink; */
+}
+
+.diy{
+    border: solid 2px rgb(131, 131, 219);
+    border-radius: 10rem;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.day{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: blue;
+}
+.vel{
+    font-size: 3rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(131, 131, 219);
+}
+
+.line{
+    position: relative;
+    top: 20px;
+}
+
+
+.lit{
+    position: relative;
+    border-radius: 15rem;
+    left: 50rem;
+    bottom: 12rem;
+    height: 7rem;
+    width: 7rem;
+        border: solid 2px blue;
+        box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.jane{
+    position: relative;
+    /* border-radius: rem; */
+    right: 5rem;
+    top: 6rem;
+    height: 6rem;
+    width: 6rem;
+    border: solid 1px white;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.mik{
+    position: relative;
+    border-radius: 15rem;
+    left: 55rem;
+    bottom: 17rem;
+    height: 7rem;
+    width: 7rem;
+    border: white 2px dashed;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.lite{
+      position: relative;
+    border-radius: 15rem;
+    left: 2rem;
+    /* bottom: 12rem; */
+    top: 4rem;
+    height: 7rem;
+    width: 7rem;
+    border: solid 2px blue;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    z-index: 1000;
+
+}
+
+.tet{
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+.lne{
+    position: relative;
+    top: 28px;
+}
